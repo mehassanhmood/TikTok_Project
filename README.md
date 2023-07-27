@@ -21,3 +21,9 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
 2. Findings and Deliverables :
    1. Executive Summary : [Stage 2 Deliverabe: Summary File](EDA_ExecutiveSummary)
    2. Python File : [Stage 2 Deliverable : Notebook](2_EDA)
+## Construct :
+1. This stage includes the following processes :
+   1. Deciding what insights to pursue.
+   2. Statistical Analysis
+   3. Regression Analysis
+   4. Utilizing Machine Learning Algorithm.
