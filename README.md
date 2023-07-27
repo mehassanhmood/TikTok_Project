@@ -6,7 +6,7 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
 2. Strategies utilized :
    1. Data Source : Gathered with in from the organization (first party) and provided as a csv.
    2. KPIs : Would depend on the insights covered via statistical inferences and mavhine learning algorithms and their performnace.
-   3. Tools : Python, statsmodel, scipy, scikit-learn and various others on need basis.
+   3. Tools : Python, statsmodel, scipy, scikit-learn, Tableau and various others on need basis.
    4. Deliverables for Plan stage : Dataset scrubbed for EDA, visualizations, statistical model, regression analysis, and/or machine learning.
 3. Deliverables :
    1. Findings:
