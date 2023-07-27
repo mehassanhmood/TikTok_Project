@@ -15,6 +15,6 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
    3. Python file : [Stage 1 Deliverable](Exploring_data_1.ipynb)
 ## Analyze :
 In this stage we will be covering the following processes:
-   1. ETL (as/if required).
+   1. ETL (Extract, Transform, Load) as/if required.
    2. EDA (Exploratory Data Analysis) to uncover as much insights as possible.
    3. This stage also includes working with the stakeholders to create a subset of the insights discovered in the previous step. This subset will only include those insights that are to be pursued further.
