@@ -8,3 +8,7 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
    2. KPIs : Would depend on the insights covered via statistical inferences and mavhine learning algorithms and their performnace.
    3. Tools : Python, statsmodel, scipy, scikit-learn and various others on need basis.
    4. Deliverables for Plan stage : Dataset scrubbed for EDA, visualizations, statistical model, regression analysis, and/or machine learning.
+3. Deliverables :
+   1. Findings:
+      1. After looking at the dataset, the two variables that are most likely to help build a predictive model are claim_status and opinion_status. We can create a classification model to differentiate the two variables, as instructed from the employer.
+      2. The mean is larger than the median, so the data is right-skewed. Therefore, it is recommended to consider applying a variable transformation, such as taking logarithms, prior to modeling.
