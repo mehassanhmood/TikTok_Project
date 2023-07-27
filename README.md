@@ -19,5 +19,5 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
    2. EDA (Exploratory Data Analysis) to uncover as much insights as possible.
    3. This stage also includes working with the stakeholders to create a subset of the insights discovered in the previous step. This subset will only include those insights that are to be pursued further.
 2. Findings and Deliverables :
-   1. Executive Summary : [Stage 2 Deliverabe; Summary File](EDA_ExecutiveSummary)
+   1. Executive Summary : [Stage 2 Deliverabe: Summary File](EDA_ExecutiveSummary)
    2. Python File : [Stage 2 Deliverable : Notebook](2_EDA)
