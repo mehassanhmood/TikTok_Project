@@ -12,7 +12,7 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
    1. Findings:
       1. After looking at the dataset, the two variables that are most likely to help build a predictive model are claim_status and opinion_status. We can create a classification model to differentiate the two variables, as instructed from the employer.
       2. The mean is larger than the median, so the data is right-skewed. Therefore, it is recommended to consider applying a variable transformation, such as taking logarithms, prior to modeling.
-   3. Python file : [Stage 1 Deliverable](Exploring_data_1.ipynb)
+   3. Python file : [Stage 1 Deliverable : Notebook](Exploring_data_1.ipynb)
 ## Analyze :
 1. In this stage we will be covering the following processes:
    1. ETL (Extract, Transform, Load) as/if required.
