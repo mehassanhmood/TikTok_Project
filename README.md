@@ -14,7 +14,10 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
       2. The mean is larger than the median, so the data is right-skewed. Therefore, it is recommended to consider applying a variable transformation, such as taking logarithms, prior to modeling.
    3. Python file : [Stage 1 Deliverable](Exploring_data_1.ipynb)
 ## Analyze :
-In this stage we will be covering the following processes:
+1. In this stage we will be covering the following processes:
    1. ETL (Extract, Transform, Load) as/if required.
    2. EDA (Exploratory Data Analysis) to uncover as much insights as possible.
    3. This stage also includes working with the stakeholders to create a subset of the insights discovered in the previous step. This subset will only include those insights that are to be pursued further.
+2. Findings and Deliverables :
+   1. Executive Summary : [Summary File](EDA_ExecutiveSummary)
+   2. Python File : [Notebook](2_EDA)
