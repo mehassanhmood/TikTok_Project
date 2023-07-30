@@ -29,6 +29,8 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
    4. Utilizing Machine Learning Algorithm.
 2. Starting with Statistical Analysis our next step is to find out if there is any statistical difference betweem the mean of video views count of verified and un-verified accounds. We do this by finding the p-value and if this less than our threshold of 5% we will reject the null hypothesis.
    1. Eexecutive Summary : [Stage 3 Deliverables : Statistics Summary File](Stats_ExecutiveSummary)
-   2. Python File : [Stage 3 Deliverables : Notebook](Stats_Analysis)
-3. Earlier, we observed that if a user is verified, they are much more likely to post opinions. Since the end goal is to classify claims and opinions, it’s important to build a model that shows how to predict the behavior of the account type (verified) that tend to post more opinions. So, in this part of the project, we built a logistic regression model that predicts verified_status. The following files include the summary and notebook of the process.
+   2. Python File : [Stage 3 Deliverables : Stats-Notebook](Stats_Analysis)
+3. Earlier, we observed that if a user is verified, they are much more likely to post opinions. Since the end goal is to classify claims and opinions, it’s important to build a model that shows how to predict the behavior of the account type (verified) that tend to post more opinions. So, in this part of the project, we built a **logistic regression model** that predicts verified_status. The following files include the summary and notebook of the process.
+   1. Executive Summary : [Stage 3 Deliverables : Regression Analysis Summary](RegressionAnalysis_ExecutiveSummary)
+   2. Python File : [Stage 3 Deliverables : Regression-Notebook](Rgression_Analysis)
 
