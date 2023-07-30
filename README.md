@@ -19,7 +19,7 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
    2. EDA (Exploratory Data Analysis) to uncover as much insights as possible.
    3. This stage also includes working with the stakeholders to create a subset of the insights discovered in the previous step. This subset will only include those insights that are to be pursued further.
 2. Findings and Deliverables :
-   1. Executive Summary : [Stage 2 Deliverabe: Summary File](EDA_ExecutiveSummary)
+   1. Executive Summary : [Stage 2 Deliverabe: Summary File](EDA_ExecutiveSummary.pptx)
    2. Python File : [Stage 2 Deliverable : Notebook](2_EDA.ipynb)
 ## Construct :
 1. This stage includes the following processes :
@@ -28,9 +28,9 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
    3. Regression Analysis
    4. Utilizing Machine Learning Algorithm.
 2. Starting with Statistical Analysis our next step is to find out if there is any statistical difference betweem the mean of video views count of verified and un-verified accounds. We do this by finding the p-value and if this less than our threshold of 5% we will reject the null hypothesis.
-   1. Eexecutive Summary : [Stage 3 Deliverables : Statistics Summary File](Stats_ExecutiveSummary)
+   1. Eexecutive Summary : [Stage 3 Deliverables : Statistics Summary File](Stats_ExecutiveSummary.pptx)
    2. Python File : [Stage 3 Deliverables : Stats-Notebook](Stats_Analysis.ipynb)
 3. Earlier, we observed that if a user is verified, they are much more likely to post opinions. Since the end goal is to classify claims and opinions, it’s important to build a model that shows how to predict the behavior of the account type (verified) that tend to post more opinions. So, in this part of the project, we built a **logistic regression model** that predicts verified_status. The following files include the summary and notebook of the process.
-   1. Executive Summary : [Stage 3 Deliverables : Regression Analysis Summary](RegressionAnalysis_ExecutiveSummary)
+   1. Executive Summary : [Stage 3 Deliverables : Regression Analysis Summary](RegressionAnalysis_ExecutiveSummary.pptx)
    2. Python File : [Stage 3 Deliverables : Regression-Notebook](Rgression_Analysis.ipynb)
 
