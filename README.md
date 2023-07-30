@@ -27,3 +27,6 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
    2. Statistical Analysis
    3. Regression Analysis
    4. Utilizing Machine Learning Algorithm.
+2. Starting with Statistical Analysis our next step is to find out if there is any statistical difference betweem the mean of video views count of verified and un-verified accounds. We do this by finding the p-value and if this less than our threshold of 5% we will reject the null hypothesis.
+   1. Eexecutive Summary : [Stage 3 Deliverables : Statistics Summary File](Stats_ExecutiveSummary)
+   2. Python File : [Stage 3 Deliverables : Notebook](Stats_Analysis)
