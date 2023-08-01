@@ -38,3 +38,4 @@ To approach this task i will be using the PACE frame-work that is an accronym fo
    2. Python File : [Stage 3 Deliverables : Product-Notebook](TheFinal_Task.ipynb)
 ## Execute : 
 1. This part of the framework is where we present the product to the stakeholders.
+2. Our best model gave an accuracy of over 99%.
